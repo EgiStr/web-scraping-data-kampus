@@ -1,0 +1,1187 @@
+[
+    {
+        "universitas": "UNIVERSITAS SYIAH KUALA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat": "730",
+                "daya_tampung": "29"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MALIKUSSALEH",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "555",
+                "daya_tampung": "117"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "203",
+                "daya_tampung": "90"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TEUKU UMAR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat": "84",
+                "daya_tampung": "64"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SAMUDRA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "182",
+                "daya_tampung": "28"
+            }
+        ]
+    },
+    {
+        "universitas": "ISBI ACEH",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNOLOGI INFORMASI",
+                "peminat": "66",
+                "daya_tampung": "15"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat": "88",
+                "daya_tampung": "20"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SUMATERA UTARA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat": "1.238",
+                "daya_tampung": "31"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat": "1.059",
+                "daya_tampung": "32"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MEDAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNOLOGI INFORMATIKA DAN KOMPUTER",
+                "peminat": "425",
+                "daya_tampung": "19"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat": "461",
+                "daya_tampung": "19"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUMATERA UTARA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat": "423",
+                "daya_tampung": "32"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "290",
+                "daya_tampung": "21"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS RIAU",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "465",
+                "daya_tampung": "24"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "432",
+                "daya_tampung": "24"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "201",
+                "daya_tampung": "11"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "311",
+                "daya_tampung": "10"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "87",
+                "daya_tampung": "43"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ANDALAS",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "641",
+                "daya_tampung": "25"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI PADANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PEND. TEKNIK INFORMATIKA DAN KOMPUTER",
+                "peminat": "602",
+                "daya_tampung": "29"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat": "0",
+                "daya_tampung": "16"
+            }
+        ]
+    },
+    {
+        "universitas": "ISI PADANG PANJANG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS JAMBI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "517",
+                "daya_tampung": "61"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS BENGKULU",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "376",
+                "daya_tampung": "21"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "99",
+                "daya_tampung": "13"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SRIWIJAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "688",
+                "daya_tampung": "33"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "859",
+                "daya_tampung": "32"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI RADEN FATAH",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS BANGKA BELITUNG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS LAMPUNG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat": "409",
+                "daya_tampung": "44"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "429",
+                "daya_tampung": "28"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNOLOGI INFORMASI",
+                "peminat": "180",
+                "daya_tampung": "11"
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI SUMATERA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "747",
+                "daya_tampung": "104"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat": "0",
+                "daya_tampung": "13"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS INDONESIA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat": "616",
+                "daya_tampung": "30"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "672",
+                "daya_tampung": "30"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "701",
+                "daya_tampung": "25"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "713",
+                "daya_tampung": "30"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI JAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN INFORMATIKA",
+                "peminat": "553",
+                "daya_tampung": "23"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat": "197",
+                "daya_tampung": "10"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM DAN TEKNOLOGI INFORMASI",
+                "peminat": "578",
+                "daya_tampung": "12"
+            }
+        ]
+    },
+    {
+        "universitas": "UPN \"VETERAN\" JAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat": "745",
+                "daya_tampung": "33"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "767",
+                "daya_tampung": "32"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TERBUKA",
+        "prodi": "SISTEM SEDANG SINGKRONISASI"
+    },
+    {
+        "universitas": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "916",
+                "daya_tampung": "42"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "339",
+                "daya_tampung": "25"
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI BANDUNG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SEKOLAH TEK. ELEKTRO & INFORMATIKA (STEI)",
+                "peminat": "1.845",
+                "daya_tampung": "195"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PADJADJARAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "1.331",
+                "daya_tampung": "20"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PENDIDIKAN INDONESIA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN ILMU KOMPUTER",
+                "peminat": "276",
+                "daya_tampung": "30"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat": "853",
+                "daya_tampung": "23"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN SISTEM DAN TEKNOLOGI INFORMASI KAMPUS PURWAKARTA",
+                "peminat": "158",
+                "daya_tampung": "29"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI KELAUTAN KAMPUS SERANG",
+                "peminat": "76",
+                "daya_tampung": "30"
+            }
+        ]
+    },
+    {
+        "universitas": "ISBI BANDUNG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "801",
+                "daya_tampung": "35"
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT PERTANIAN BOGOR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat": "784",
+                "daya_tampung": "55"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SILIWANGI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat": "449",
+                "daya_tampung": "32"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS JENDERAL SOEDIRMAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat": "585",
+                "daya_tampung": "31"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TIDAR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SEBELAS MARET",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat": "865",
+                "daya_tampung": "16"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK INFORMATIKA & KOMPUTER",
+                "peminat": "379",
+                "daya_tampung": "16"
+            }
+        ]
+    },
+    {
+        "universitas": "ISI SURAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS DIPONEGORO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat": "833",
+                "daya_tampung": "37"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI SEMARANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PEND. TEKNIK INFORMATIKA & KOMPUTER",
+                "peminat": "458",
+                "daya_tampung": "17"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "1.028",
+                "daya_tampung": "34"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "341",
+                "daya_tampung": "10"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat": "138",
+                "daya_tampung": "21"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS GADJAH MADA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat": "667",
+                "daya_tampung": "18"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat": "1.012",
+                "daya_tampung": "20"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI YOGYAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK INFORMATIKA",
+                "peminat": "612",
+                "daya_tampung": "13"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat": "573",
+                "daya_tampung": "14"
+            }
+        ]
+    },
+    {
+        "universitas": "UPN \"VETERAN\" YOGYAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "884",
+                "daya_tampung": "40"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "246",
+                "daya_tampung": "19"
+            }
+        ]
+    },
+    {
+        "universitas": "ISI YOGYAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "541",
+                "daya_tampung": "15"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS JEMBER",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "555",
+                "daya_tampung": "29"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat": "396",
+                "daya_tampung": "28"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat": "317",
+                "daya_tampung": "28"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS BRAWIJAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "1.027",
+                "daya_tampung": "72"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "1.276",
+                "daya_tampung": "60"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNOLOGI INFORMASI",
+                "peminat": "148",
+                "daya_tampung": "23"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat": "327",
+                "daya_tampung": "47"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MALANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK INFORMATIKA ",
+                "peminat": "259",
+                "daya_tampung": "17"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "743",
+                "daya_tampung": "21"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI MALANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "525",
+                "daya_tampung": "89"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS AIRLANGGA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "452",
+                "daya_tampung": "21"
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "1.637",
+                "daya_tampung": "61"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "758",
+                "daya_tampung": "48"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat": "204",
+                "daya_tampung": "16"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI SURABAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNOLOGI INFORMASI",
+                "peminat": "189",
+                "daya_tampung": "20"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "489",
+                "daya_tampung": "17"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "597",
+                "daya_tampung": "19"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TRUNOJOYO MADURA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "422",
+                "daya_tampung": "56"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN INFORMATIKA",
+                "peminat": "154",
+                "daya_tampung": "56"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "160",
+                "daya_tampung": "53"
+            }
+        ]
+    },
+    {
+        "universitas": "UPN \"VETERAN\" JAWA TIMUR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat": "621",
+                "daya_tampung": "66"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "569",
+                "daya_tampung": "50"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "254",
+                "daya_tampung": "21"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TANJUNGPURA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "361",
+                "daya_tampung": "14"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI ",
+                "peminat": "178",
+                "daya_tampung": "18"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PALANGKARAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERANGKAT LUNAK (TEK. INFORMATIKA)",
+                "peminat": "224",
+                "daya_tampung": "17"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS LAMBUNG MANGKURAT",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat": "363",
+                "daya_tampung": "13"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN ILMU KOMPUTER ",
+                "peminat": "175",
+                "daya_tampung": "8"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat": "320",
+                "daya_tampung": "12"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MULAWARMAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat": "558",
+                "daya_tampung": "28"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "246",
+                "daya_tampung": "28"
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI KALIMANTAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "199",
+                "daya_tampung": "28"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat": "227",
+                "daya_tampung": "25"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS BORNEO TARAKAN",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS UDAYANA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER/TEKNIK INFORMATIKA",
+                "peminat": "483",
+                "daya_tampung": "38"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat": "423",
+                "daya_tampung": "52"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PENDIDIKAN GANESHA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK INFORMATIKA",
+                "peminat": "90",
+                "daya_tampung": "28"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "58",
+                "daya_tampung": "29"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat": "38",
+                "daya_tampung": "28"
+            }
+        ]
+    },
+    {
+        "universitas": "ISI DENPASAR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS MATARAM",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "467",
+                "daya_tampung": "20"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NUSA CENDANA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat": "144",
+                "daya_tampung": "16"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TIMOR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat": "23",
+                "daya_tampung": "25"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS HASANUDDIN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA ",
+                "peminat": "1.114",
+                "daya_tampung": "17"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat": "457",
+                "daya_tampung": "17"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MAKASSAR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK INFORMATIKA & KOMPUTER",
+                "peminat": "659",
+                "daya_tampung": "49"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "147",
+                "daya_tampung": "18"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SAM RATULANGI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat": "256",
+                "daya_tampung": "48"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "35",
+                "daya_tampung": "32"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MANADO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "126",
+                "daya_tampung": "76"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TADULAKO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "247",
+                "daya_tampung": "18"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "0",
+                "daya_tampung": "5"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SULAWESI BARAT",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "102",
+                "daya_tampung": "126"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS HALUOLEO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "411",
+                "daya_tampung": "18"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat": "115",
+                "daya_tampung": "14"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI GORONTALO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "174",
+                "daya_tampung": "39"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNOLOGI INFORMASI",
+                "peminat": "76",
+                "daya_tampung": "30"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "35",
+                "daya_tampung": "21"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat": "50",
+                "daya_tampung": "13"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PATTIMURA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS KHAIRUN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "102",
+                "daya_tampung": "32"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS CENDERAWASIH",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "15",
+                "daya_tampung": "20"
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MUSAMUS MERAUKE",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "24",
+                "daya_tampung": "19"
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat": "22",
+                "daya_tampung": "14"
+            }
+        ]
+    },
+    {
+        "universitas": "ISBI TANAH PAPUA",
+        "prodi": "SISTEM SEDANG SINGKRONISASI"
+    },
+    {
+        "universitas": "UNIVERSITAS PAPUA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat": "26",
+                "daya_tampung": "9"
+            }
+        ]
+    }
+]
