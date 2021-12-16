@@ -1,6 +1,7 @@
 import requests
 import json
 from bs4 import BeautifulSoup
+import math
 
 URL = "https://sidata-ptn.ltmpt.ac.id/ptn_sn.php"
 MY_PRODI = ["Sistem Informasi",'informatika','teknik informatika','Ilmu Komputasi','Ilmu Komputer', 'Matematika Komputasi',"teknologi informasi",'Manajemen Informatika']
@@ -17,7 +18,7 @@ def removeDuplicateList(list):
     return list(set(list))
 
 def removeSpacing(string):
-    return string.replace(" ", "").replace("\n", "").replace("\r", "")
+    return string.replace(" ", "").replace("\n", "").replace("\r", "").replace(".", "")
 
 def lowercase(string):
     return string.lower()
@@ -41,6 +42,11 @@ def getLinks(soup):
     links = soup.find_all('a')
     return links
 
+def sortListofObject(kampus):
+
+    # sort list of object
+    kampus.sort(key=lambda x: x['prodi'][0].get("keketatan",0) if x['prodi'] and len(x['prodi']) > 0 else 0 , reverse=True)
+    return kampus
 
 
 def kampus():
@@ -61,13 +67,14 @@ def findProdi(url):
                     summary = {}
                     summary['jenjang'] = link.findChildren('td')[3].text
                     summary['prodi'] = link.findChildren('td')[2].findChildren('a')[0].text
-                    summary['peminat'] = removeSpacing(link.findChildren('td')[5].text).replace("\n", "").replace("\r", "")
-                    summary['daya_tampung'] =  link.findChildren('td')[4].text
+                    summary['peminat_2020'] = int(removeSpacing(link.findChildren('td')[5].text).replace("\n", "").replace("\r", ""))
+                    summary['daya_tampung_2021'] =  int(link.findChildren('td')[4].text)
+                    summary['keketatan'] =  float(summary.get('peminat_2020'))/float(summary.get('daya_tampung_2021'))
                     daftar_prodi.append(summary)
-    
+        return daftar_prodi
     except IndexError as e:
-        return "SISTEM SEDANG SINGKRONISASI"
-    return daftar_prodi
+        return []
+
 def main():    
     kampus = []
     html = getRequest(URL)
@@ -82,12 +89,17 @@ def main():
             "prodi":findProdi(link.findChildren('td')[2].findChildren('a')[0].get('href'))
         })
 
-    # write to json
-    with open('kampus.json', 'w') as outfile:
+    kampus = sortListofObject(kampus)
+    # # write to json
+    with open('kampusInformatika.json', 'w') as outfile:
         json.dump(kampus, outfile, indent=4)
-   
+    # read kampus.json 
+    # write and read kampusInformatika.json
+    # with open('kampusInformatika.json', 'wr') as f:
+    #     kampus = json.load(f)
     
-    print(kampus)
-
+    #     # sortListofObject(kampus)
+    #     print(sortListofObject(kampus))
+    
 if __name__ == "__main__":
     main()
