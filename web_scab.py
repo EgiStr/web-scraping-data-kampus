@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 import math
 
 URL = "https://sidata-ptn.ltmpt.ac.id/ptn_sn.php"
-MY_PRODI = ["Sistem Informasi",'informatika','teknik informatika','Ilmu Komputasi','Ilmu Komputer', 'Matematika Komputasi',"teknologi informasi",'Manajemen Informatika']
+MY_PRODI = ["Sistem Informasi",'informatika','teknik informatika','Ilmu Komputasi','Ilmu Komputer', 'Matematika Komputasi',"teknologi informasi",'Manajemen Informatika','Data sains']
 
 
 def getRequest(url):

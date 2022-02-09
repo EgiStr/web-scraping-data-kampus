@@ -1,0 +1,807 @@
+[
+    {
+        "universitas": "UNIVERSITAS SRIWIJAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 612,
+                "daya_tampung_2021": 24,
+                "keketatan": 25.5
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 147,
+                "daya_tampung_2021": 24,
+                "keketatan": 6.125
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PADJADJARAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 438,
+                "daya_tampung_2021": 24,
+                "keketatan": 18.25
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI PADANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN (NK)",
+                "peminat_2020": 475,
+                "daya_tampung_2021": 27,
+                "keketatan": 17.59259259259259
+            }
+        ]
+    },
+    {
+        "universitas": "UPN \"VETERAN\" YOGYAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 729,
+                "daya_tampung_2021": 48,
+                "keketatan": 15.1875
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MULAWARMAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 167,
+                "daya_tampung_2021": 15,
+                "keketatan": 11.133333333333333
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 40,
+                "daya_tampung_2021": 24,
+                "keketatan": 1.6666666666666667
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT PERTANIAN BOGOR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU DAN TEKNOLOGI KELAUTAN",
+                "peminat_2020": 365,
+                "daya_tampung_2021": 40,
+                "keketatan": 9.125
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS DIPONEGORO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN  ",
+                "peminat_2020": 284,
+                "daya_tampung_2021": 38,
+                "keketatan": 7.473684210526316
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS JEMBER",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 153,
+                "daya_tampung_2021": 21,
+                "keketatan": 7.285714285714286
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS JENDERAL SOEDIRMAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 229,
+                "daya_tampung_2021": 36,
+                "keketatan": 6.361111111111111
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 101,
+                "daya_tampung_2021": 19,
+                "keketatan": 5.315789473684211
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 125,
+                "daya_tampung_2021": 24,
+                "keketatan": 5.208333333333333
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS CENDERAWASIH",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 62,
+                "daya_tampung_2021": 12,
+                "keketatan": 5.166666666666667
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 3,
+                "daya_tampung_2021": 6,
+                "keketatan": 0.5
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS RIAU",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 181,
+                "daya_tampung_2021": 36,
+                "keketatan": 5.027777777777778
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS BRAWIJAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 204,
+                "daya_tampung_2021": 42,
+                "keketatan": 4.857142857142857
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS BENGKULU",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 76,
+                "daya_tampung_2021": 16,
+                "keketatan": 4.75
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS JAMBI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 177,
+                "daya_tampung_2021": 40,
+                "keketatan": 4.425
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK KELAUTAN",
+                "peminat_2020": 106,
+                "daya_tampung_2021": 24,
+                "keketatan": 4.416666666666667
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PALANGKARAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 88,
+                "daya_tampung_2021": 22,
+                "keketatan": 4.0
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS BANGKA BELITUNG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 82,
+                "daya_tampung_2021": 28,
+                "keketatan": 2.9285714285714284
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 76,
+                "daya_tampung_2021": 15,
+                "keketatan": 5.066666666666666
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS HASANUDDIN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN ",
+                "peminat_2020": 126,
+                "daya_tampung_2021": 44,
+                "keketatan": 2.8636363636363638
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK KELAUTAN ",
+                "peminat_2020": 101,
+                "daya_tampung_2021": 15,
+                "keketatan": 6.733333333333333
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN ",
+                "peminat_2020": 742,
+                "daya_tampung_2021": 20,
+                "keketatan": 37.1
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS LAMBUNG MANGKURAT",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 37,
+                "daya_tampung_2021": 13,
+                "keketatan": 2.8461538461538463
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 80,
+                "daya_tampung_2021": 10,
+                "keketatan": 8.0
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TRUNOJOYO MADURA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 125,
+                "daya_tampung_2021": 45,
+                "keketatan": 2.7777777777777777
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SYIAH KUALA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 111,
+                "daya_tampung_2021": 45,
+                "keketatan": 2.466666666666667
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 220,
+                "daya_tampung_2021": 20,
+                "keketatan": 11.0
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MATARAM",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 49,
+                "daya_tampung_2021": 20,
+                "keketatan": 2.45
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 61,
+                "daya_tampung_2021": 25,
+                "keketatan": 2.44
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 1,
+                "daya_tampung_2021": 20,
+                "keketatan": 0.05
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS UDAYANA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 105,
+                "daya_tampung_2021": 45,
+                "keketatan": 2.3333333333333335
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NUSA CENDANA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 53,
+                "daya_tampung_2021": 25,
+                "keketatan": 2.12
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PENDIDIKAN INDONESIA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN KELAUTAN DAN PERIKANAN KAMPUS SERANG",
+                "peminat_2020": 62,
+                "daya_tampung_2021": 30,
+                "keketatan": 2.066666666666667
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI KELAUTAN KAMPUS SERANG",
+                "peminat_2020": 88,
+                "daya_tampung_2021": 40,
+                "keketatan": 2.2
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "LOGISTIK KELAUTAN - KAMPUS SERANG",
+                "peminat_2020": 64,
+                "daya_tampung_2021": 32,
+                "keketatan": 2.0
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS LAMPUNG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 54,
+                "daya_tampung_2021": 30,
+                "keketatan": 1.8
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TANJUNGPURA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 36,
+                "daya_tampung_2021": 20,
+                "keketatan": 1.8
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 66,
+                "daya_tampung_2021": 10,
+                "keketatan": 6.6
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK KELAUTAN",
+                "peminat_2020": 16,
+                "daya_tampung_2021": 8,
+                "keketatan": 2.0
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TEUKU UMAR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 30,
+                "daya_tampung_2021": 24,
+                "keketatan": 1.25
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS HALUOLEO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 20,
+                "daya_tampung_2021": 18,
+                "keketatan": 1.1111111111111112
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 381,
+                "daya_tampung_2021": 24,
+                "keketatan": 15.875
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK KELAUTAN",
+                "peminat_2020": 17,
+                "daya_tampung_2021": 21,
+                "keketatan": 0.8095238095238095
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MALIKUSSALEH",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 32,
+                "daya_tampung_2021": 30,
+                "keketatan": 1.0666666666666667
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SAM RATULANGI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN ",
+                "peminat_2020": 26,
+                "daya_tampung_2021": 27,
+                "keketatan": 0.9629629629629629
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 43,
+                "daya_tampung_2021": 45,
+                "keketatan": 0.9555555555555556
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PATTIMURA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "IL. KELAUTAN",
+                "peminat_2020": 18,
+                "daya_tampung_2021": 20,
+                "keketatan": 0.9
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI SUMATERA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK KELAUTAN",
+                "peminat_2020": 46,
+                "daya_tampung_2021": 59,
+                "keketatan": 0.7796610169491526
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 380,
+                "daya_tampung_2021": 103,
+                "keketatan": 3.6893203883495147
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SAINS LINGKUNGAN KELAUTAN",
+                "peminat_2020": 42,
+                "daya_tampung_2021": 44,
+                "keketatan": 0.9545454545454546
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI KALIMANTAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK KELAUTAN",
+                "peminat_2020": 23,
+                "daya_tampung_2021": 30,
+                "keketatan": 0.7666666666666667
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PAPUA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 11,
+                "daya_tampung_2021": 18,
+                "keketatan": 0.6111111111111112
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 41,
+                "daya_tampung_2021": 18,
+                "keketatan": 2.2777777777777777
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS KHAIRUN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 12,
+                "daya_tampung_2021": 26,
+                "keketatan": 0.46153846153846156
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2020": 53,
+                "daya_tampung_2021": 30,
+                "keketatan": 1.7666666666666666
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SAMUDRA",
+        "prodi": []
+    },
+    {
+        "universitas": "ISBI ACEH",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SUMATERA UTARA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MEDAN",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUMATERA UTARA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ANDALAS",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI PADANG PANJANG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI RADEN FATAH",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KELAUTAN",
+                "peminat_2020": 0,
+                "daya_tampung_2021": 10,
+                "keketatan": 0.0
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS INDONESIA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI JAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UPN \"VETERAN\" JAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS TERBUKA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+        "prodi": []
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI BANDUNG",
+        "prodi": []
+    },
+    {
+        "universitas": "ISBI BANDUNG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SILIWANGI",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS TIDAR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SEBELAS MARET",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI SURAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI SEMARANG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS GADJAH MADA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI YOGYAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI YOGYAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MALANG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI MALANG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS AIRLANGGA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI SURABAYA",
+        "prodi": []
+    },
+    {
+        "universitas": "UPN \"VETERAN\" JAWA TIMUR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS BORNEO TARAKAN",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS PENDIDIKAN GANESHA",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI DENPASAR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS TIMOR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MAKASSAR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MANADO",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS TADULAKO",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SULAWESI BARAT",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI GORONTALO",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS MUSAMUS MERAUKE",
+        "prodi": []
+    },
+    {
+        "universitas": "ISBI TANAH PAPUA",
+        "prodi": []
+    }
+]

@@ -1,0 +1,1315 @@
+[
+    {
+        "universitas": "UNIVERSITAS PADJADJARAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 2010,
+                "daya_tampung_2021": 20,
+                "keketatan": 100.5
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS HASANUDDIN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA ",
+                "peminat_2020": 1317,
+                "daya_tampung_2021": 20,
+                "keketatan": 65.85
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat_2020": 594,
+                "daya_tampung_2021": 27,
+                "keketatan": 22.0
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SUMATERA UTARA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat_2020": 1625,
+                "daya_tampung_2021": 30,
+                "keketatan": 54.166666666666664
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat_2020": 1707,
+                "daya_tampung_2021": 30,
+                "keketatan": 56.9
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SEBELAS MARET",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat_2020": 1026,
+                "daya_tampung_2021": 20,
+                "keketatan": 51.3
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK INFORMATIKA & KOMPUTER",
+                "peminat_2020": 586,
+                "daya_tampung_2021": 16,
+                "keketatan": 36.625
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI YOGYAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK INFORMATIKA",
+                "peminat_2020": 560,
+                "daya_tampung_2021": 12,
+                "keketatan": 46.666666666666664
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat_2020": 510,
+                "daya_tampung_2021": 12,
+                "keketatan": 42.5
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat_2020": 1094,
+                "daya_tampung_2021": 30,
+                "keketatan": 36.46666666666667
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ANDALAS",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 667,
+                "daya_tampung_2021": 20,
+                "keketatan": 33.35
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SYIAH KUALA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat_2020": 759,
+                "daya_tampung_2021": 23,
+                "keketatan": 33.0
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT PERTANIAN BOGOR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat_2020": 1570,
+                "daya_tampung_2021": 48,
+                "keketatan": 32.708333333333336
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS DIPONEGORO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat_2020": 1220,
+                "daya_tampung_2021": 38,
+                "keketatan": 32.10526315789474
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS LAMBUNG MANGKURAT",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat_2020": 446,
+                "daya_tampung_2021": 14,
+                "keketatan": 31.857142857142858
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN ILMU KOMPUTER ",
+                "peminat_2020": 69,
+                "daya_tampung_2021": 10,
+                "keketatan": 6.9
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat_2020": 371,
+                "daya_tampung_2021": 13,
+                "keketatan": 28.53846153846154
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 1100,
+                "daya_tampung_2021": 36,
+                "keketatan": 30.555555555555557
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SRIWIJAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 1093,
+                "daya_tampung_2021": 36,
+                "keketatan": 30.36111111111111
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 1170,
+                "daya_tampung_2021": 36,
+                "keketatan": 32.5
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS JENDERAL SOEDIRMAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat_2020": 1081,
+                "daya_tampung_2021": 36,
+                "keketatan": 30.02777777777778
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MEDAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNOLOGI INFORMATIKA DAN KOMPUTER",
+                "peminat_2020": 719,
+                "daya_tampung_2021": 24,
+                "keketatan": 29.958333333333332
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat_2020": 829,
+                "daya_tampung_2021": 24,
+                "keketatan": 34.541666666666664
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI SEMARANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PEND. TEKNIK INFORMATIKA & KOMPUTER",
+                "peminat_2020": 701,
+                "daya_tampung_2021": 24,
+                "keketatan": 29.208333333333332
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 1554,
+                "daya_tampung_2021": 39,
+                "keketatan": 39.84615384615385
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 444,
+                "daya_tampung_2021": 15,
+                "keketatan": 29.6
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 456,
+                "daya_tampung_2021": 16,
+                "keketatan": 28.5
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS BRAWIJAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 1450,
+                "daya_tampung_2021": 53,
+                "keketatan": 27.358490566037737
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 926,
+                "daya_tampung_2021": 44,
+                "keketatan": 21.045454545454547
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNOLOGI INFORMASI",
+                "peminat_2020": 105,
+                "daya_tampung_2021": 27,
+                "keketatan": 3.888888888888889
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat_2020": 470,
+                "daya_tampung_2021": 36,
+                "keketatan": 13.055555555555555
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MATARAM",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 804,
+                "daya_tampung_2021": 30,
+                "keketatan": 26.8
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SILIWANGI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat_2020": 744,
+                "daya_tampung_2021": 28,
+                "keketatan": 26.571428571428573
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS GADJAH MADA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat_2020": 626,
+                "daya_tampung_2021": 24,
+                "keketatan": 26.083333333333332
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat_2020": 771,
+                "daya_tampung_2021": 33,
+                "keketatan": 23.363636363636363
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TANJUNGPURA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 450,
+                "daya_tampung_2021": 18,
+                "keketatan": 25.0
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI ",
+                "peminat_2020": 229,
+                "daya_tampung_2021": 20,
+                "keketatan": 11.45
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TADULAKO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 394,
+                "daya_tampung_2021": 16,
+                "keketatan": 24.625
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 63,
+                "daya_tampung_2021": 8,
+                "keketatan": 7.875
+            }
+        ]
+    },
+    {
+        "universitas": "UPN \"VETERAN\" JAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat_2020": 823,
+                "daya_tampung_2021": 35,
+                "keketatan": 23.514285714285716
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 913,
+                "daya_tampung_2021": 35,
+                "keketatan": 26.085714285714285
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS INDONESIA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat_2020": 693,
+                "daya_tampung_2021": 30,
+                "keketatan": 23.1
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 586,
+                "daya_tampung_2021": 30,
+                "keketatan": 19.533333333333335
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS BENGKULU",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 460,
+                "daya_tampung_2021": 20,
+                "keketatan": 23.0
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 121,
+                "daya_tampung_2021": 16,
+                "keketatan": 7.5625
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 1336,
+                "daya_tampung_2021": 60,
+                "keketatan": 22.266666666666666
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 661,
+                "daya_tampung_2021": 44,
+                "keketatan": 15.022727272727273
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat_2020": 196,
+                "daya_tampung_2021": 16,
+                "keketatan": 12.25
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS RIAU",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 796,
+                "daya_tampung_2021": 36,
+                "keketatan": 22.11111111111111
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 1129,
+                "daya_tampung_2021": 24,
+                "keketatan": 47.041666666666664
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI JAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN INFORMATIKA",
+                "peminat_2020": 417,
+                "daya_tampung_2021": 20,
+                "keketatan": 20.85
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat_2020": 673,
+                "daya_tampung_2021": 10,
+                "keketatan": 67.3
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM DAN TEKNOLOGI INFORMASI",
+                "peminat_2020": 429,
+                "daya_tampung_2021": 10,
+                "keketatan": 42.9
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 1087,
+                "daya_tampung_2021": 54,
+                "keketatan": 20.12962962962963
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 532,
+                "daya_tampung_2021": 36,
+                "keketatan": 14.777777777777779
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 689,
+                "daya_tampung_2021": 36,
+                "keketatan": 19.13888888888889
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 485,
+                "daya_tampung_2021": 30,
+                "keketatan": 16.166666666666668
+            }
+        ]
+    },
+    {
+        "universitas": "UPN \"VETERAN\" YOGYAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 852,
+                "daya_tampung_2021": 48,
+                "keketatan": 17.75
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 231,
+                "daya_tampung_2021": 36,
+                "keketatan": 6.416666666666667
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI PADANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PEND. TEKNIK INFORMATIKA DAN KOMPUTER",
+                "peminat_2020": 418,
+                "daya_tampung_2021": 24,
+                "keketatan": 17.416666666666668
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat_2020": 372,
+                "daya_tampung_2021": 12,
+                "keketatan": 31.0
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS AIRLANGGA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 339,
+                "daya_tampung_2021": 20,
+                "keketatan": 16.95
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MULAWARMAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat_2020": 508,
+                "daya_tampung_2021": 30,
+                "keketatan": 16.933333333333334
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 355,
+                "daya_tampung_2021": 20,
+                "keketatan": 17.75
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS JAMBI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 965,
+                "daya_tampung_2021": 60,
+                "keketatan": 16.083333333333332
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS JEMBER",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 463,
+                "daya_tampung_2021": 30,
+                "keketatan": 15.433333333333334
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat_2020": 331,
+                "daya_tampung_2021": 30,
+                "keketatan": 11.033333333333333
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat_2020": 326,
+                "daya_tampung_2021": 30,
+                "keketatan": 10.866666666666667
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS CENDERAWASIH",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 92,
+                "daya_tampung_2021": 6,
+                "keketatan": 15.333333333333334
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NUSA CENDANA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat_2020": 374,
+                "daya_tampung_2021": 25,
+                "keketatan": 14.96
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS HALUOLEO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 538,
+                "daya_tampung_2021": 36,
+                "keketatan": 14.944444444444445
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat_2020": 184,
+                "daya_tampung_2021": 18,
+                "keketatan": 10.222222222222221
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 172,
+                "daya_tampung_2021": 12,
+                "keketatan": 14.333333333333334
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 271,
+                "daya_tampung_2021": 10,
+                "keketatan": 27.1
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MALANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK INFORMATIKA ",
+                "peminat_2020": 224,
+                "daya_tampung_2021": 16,
+                "keketatan": 14.0
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 814,
+                "daya_tampung_2021": 16,
+                "keketatan": 50.875
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 259,
+                "daya_tampung_2021": 19,
+                "keketatan": 13.631578947368421
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PENDIDIKAN INDONESIA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN ILMU KOMPUTER",
+                "peminat_2020": 361,
+                "daya_tampung_2021": 30,
+                "keketatan": 12.033333333333333
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat_2020": 1008,
+                "daya_tampung_2021": 20,
+                "keketatan": 50.4
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN SISTEM DAN TEKNOLOGI INFORMASI KAMPUS PURWAKARTA",
+                "peminat_2020": 174,
+                "daya_tampung_2021": 25,
+                "keketatan": 6.96
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI KELAUTAN KAMPUS SERANG",
+                "peminat_2020": 88,
+                "daya_tampung_2021": 40,
+                "keketatan": 2.2
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MAKASSAR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK INFORMATIKA & KOMPUTER",
+                "peminat_2020": 754,
+                "daya_tampung_2021": 65,
+                "keketatan": 11.6
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SULAWESI BARAT",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 284,
+                "daya_tampung_2021": 26,
+                "keketatan": 10.923076923076923
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS LAMPUNG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat_2020": 617,
+                "daya_tampung_2021": 58,
+                "keketatan": 10.637931034482758
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 616,
+                "daya_tampung_2021": 45,
+                "keketatan": 13.688888888888888
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNOLOGI INFORMASI",
+                "peminat_2020": 174,
+                "daya_tampung_2021": 26,
+                "keketatan": 6.6923076923076925
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUMATERA UTARA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat_2020": 585,
+                "daya_tampung_2021": 60,
+                "keketatan": 9.75
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 324,
+                "daya_tampung_2021": 60,
+                "keketatan": 5.4
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PALANGKARAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERANGKAT LUNAK (TEK. INFORMATIKA)",
+                "peminat_2020": 381,
+                "daya_tampung_2021": 40,
+                "keketatan": 9.525
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS UDAYANA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat_2020": 437,
+                "daya_tampung_2021": 48,
+                "keketatan": 9.104166666666666
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat_2020": 216,
+                "daya_tampung_2021": 26,
+                "keketatan": 8.307692307692308
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI MALANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 426,
+                "daya_tampung_2021": 52,
+                "keketatan": 8.192307692307692
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI KALIMANTAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 206,
+                "daya_tampung_2021": 30,
+                "keketatan": 6.866666666666666
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat_2020": 220,
+                "daya_tampung_2021": 30,
+                "keketatan": 7.333333333333333
+            }
+        ]
+    },
+    {
+        "universitas": "UPN \"VETERAN\" JAWA TIMUR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat_2020": 692,
+                "daya_tampung_2021": 105,
+                "keketatan": 6.59047619047619
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 620,
+                "daya_tampung_2021": 78,
+                "keketatan": 7.948717948717949
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 158,
+                "daya_tampung_2021": 24,
+                "keketatan": 6.583333333333333
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SAM RATULANGI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "INFORMATIKA",
+                "peminat_2020": 337,
+                "daya_tampung_2021": 53,
+                "keketatan": 6.3584905660377355
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 45,
+                "daya_tampung_2021": 31,
+                "keketatan": 1.4516129032258065
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI SUMATERA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 733,
+                "daya_tampung_2021": 117,
+                "keketatan": 6.264957264957265
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SAMUDRA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 216,
+                "daya_tampung_2021": 36,
+                "keketatan": 6.0
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TRUNOJOYO MADURA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 411,
+                "daya_tampung_2021": 70,
+                "keketatan": 5.871428571428571
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN INFORMATIKA",
+                "peminat_2020": 150,
+                "daya_tampung_2021": 46,
+                "keketatan": 3.260869565217391
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 192,
+                "daya_tampung_2021": 70,
+                "keketatan": 2.742857142857143
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI GORONTALO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 219,
+                "daya_tampung_2021": 40,
+                "keketatan": 5.475
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNOLOGI INFORMASI",
+                "peminat_2020": 85,
+                "daya_tampung_2021": 30,
+                "keketatan": 2.8333333333333335
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PENDIDIKAN GANESHA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK INFORMATIKA",
+                "peminat_2020": 164,
+                "daya_tampung_2021": 30,
+                "keketatan": 5.466666666666667
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 144,
+                "daya_tampung_2021": 30,
+                "keketatan": 4.8
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat_2020": 74,
+                "daya_tampung_2021": 30,
+                "keketatan": 2.466666666666667
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS KHAIRUN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 198,
+                "daya_tampung_2021": 42,
+                "keketatan": 4.714285714285714
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MALIKUSSALEH",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 569,
+                "daya_tampung_2021": 125,
+                "keketatan": 4.552
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 168,
+                "daya_tampung_2021": 100,
+                "keketatan": 1.68
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MANADO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 160,
+                "daya_tampung_2021": 36,
+                "keketatan": 4.444444444444445
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PAPUA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 80,
+                "daya_tampung_2021": 18,
+                "keketatan": 4.444444444444445
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI SURABAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNOLOGI INFORMASI",
+                "peminat_2020": 140,
+                "daya_tampung_2021": 33,
+                "keketatan": 4.242424242424242
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 364,
+                "daya_tampung_2021": 43,
+                "keketatan": 8.465116279069768
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 545,
+                "daya_tampung_2021": 42,
+                "keketatan": 12.976190476190476
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TEUKU UMAR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat_2020": 153,
+                "daya_tampung_2021": 48,
+                "keketatan": 3.1875
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 235,
+                "daya_tampung_2021": 80,
+                "keketatan": 2.9375
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TIMOR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat_2020": 82,
+                "daya_tampung_2021": 30,
+                "keketatan": 2.7333333333333334
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNOLOGI INFORMASI",
+                "peminat_2020": 50,
+                "daya_tampung_2021": 21,
+                "keketatan": 2.380952380952381
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI INFORMASI",
+                "peminat_2020": 85,
+                "daya_tampung_2021": 27,
+                "keketatan": 3.1481481481481484
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 54,
+                "daya_tampung_2021": 45,
+                "keketatan": 1.2
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMPUTER",
+                "peminat_2020": 57,
+                "daya_tampung_2021": 40,
+                "keketatan": 1.425
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MUSAMUS MERAUKE",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK INFORMATIKA",
+                "peminat_2020": 26,
+                "daya_tampung_2021": 24,
+                "keketatan": 1.0833333333333333
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SISTEM INFORMASI",
+                "peminat_2020": 24,
+                "daya_tampung_2021": 16,
+                "keketatan": 1.5
+            }
+        ]
+    },
+    {
+        "universitas": "ISBI ACEH",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI PADANG PANJANG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI RADEN FATAH",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS BANGKA BELITUNG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS TERBUKA",
+        "prodi": []
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI BANDUNG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "SEKOLAH TEKNIK ELEKTRO DAN INFORMATIKA (STEI) - KOMPUTASI",
+                "peminat_2020": 0,
+                "daya_tampung_2021": 100,
+                "keketatan": 0.0
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SEKOLAH TEKNIK ELEKTRO DAN INFORMATIKA (STEI) - REKAYASA",
+                "peminat_2020": 0,
+                "daya_tampung_2021": 102,
+                "keketatan": 0.0
+            }
+        ]
+    },
+    {
+        "universitas": "ISBI BANDUNG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS TIDAR",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI SURAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI YOGYAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS BORNEO TARAKAN",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI DENPASAR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS PATTIMURA",
+        "prodi": []
+    },
+    {
+        "universitas": "ISBI TANAH PAPUA",
+        "prodi": []
+    }
+]
