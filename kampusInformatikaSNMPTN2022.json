@@ -5,8 +5,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 2010,
-                "daya_tampung_2021": 20,
+                "peminat_2021": 2010,
+                "daya_tampung_2022": 20,
                 "keketatan": 100.5
             }
         ]
@@ -17,15 +17,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA ",
-                "peminat_2020": 1317,
-                "daya_tampung_2021": 20,
+                "peminat_2021": 1317,
+                "daya_tampung_2022": 20,
                 "keketatan": 65.85
             },
             {
                 "jenjang": "S1",
                 "prodi": "ILMU KOMPUTER",
-                "peminat_2020": 594,
-                "daya_tampung_2021": 27,
+                "peminat_2021": 594,
+                "daya_tampung_2022": 27,
                 "keketatan": 22.0
             }
         ]
@@ -36,15 +36,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "ILMU KOMPUTER",
-                "peminat_2020": 1625,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 1625,
+                "daya_tampung_2022": 30,
                 "keketatan": 54.166666666666664
             },
             {
                 "jenjang": "S1",
                 "prodi": "TEKNOLOGI INFORMASI",
-                "peminat_2020": 1707,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 1707,
+                "daya_tampung_2022": 30,
                 "keketatan": 56.9
             }
         ]
@@ -55,15 +55,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "INFORMATIKA",
-                "peminat_2020": 1026,
-                "daya_tampung_2021": 20,
+                "peminat_2021": 1026,
+                "daya_tampung_2022": 20,
                 "keketatan": 51.3
             },
             {
                 "jenjang": "S1",
                 "prodi": "PENDIDIKAN TEKNIK INFORMATIKA & KOMPUTER",
-                "peminat_2020": 586,
-                "daya_tampung_2021": 16,
+                "peminat_2021": 586,
+                "daya_tampung_2022": 16,
                 "keketatan": 36.625
             }
         ]
@@ -74,15 +74,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "PENDIDIKAN TEKNIK INFORMATIKA",
-                "peminat_2020": 560,
-                "daya_tampung_2021": 12,
+                "peminat_2021": 560,
+                "daya_tampung_2022": 12,
                 "keketatan": 46.666666666666664
             },
             {
                 "jenjang": "S1",
                 "prodi": "TEKNOLOGI INFORMASI",
-                "peminat_2020": 510,
-                "daya_tampung_2021": 12,
+                "peminat_2021": 510,
+                "daya_tampung_2022": 12,
                 "keketatan": 42.5
             }
         ]
@@ -93,8 +93,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "INFORMATIKA",
-                "peminat_2020": 1094,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 1094,
+                "daya_tampung_2022": 30,
                 "keketatan": 36.46666666666667
             }
         ]
@@ -105,8 +105,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 667,
-                "daya_tampung_2021": 20,
+                "peminat_2021": 667,
+                "daya_tampung_2022": 20,
                 "keketatan": 33.35
             }
         ]
@@ -117,8 +117,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "INFORMATIKA",
-                "peminat_2020": 759,
-                "daya_tampung_2021": 23,
+                "peminat_2021": 759,
+                "daya_tampung_2022": 23,
                 "keketatan": 33.0
             }
         ]
@@ -129,8 +129,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "ILMU KOMPUTER",
-                "peminat_2020": 1570,
-                "daya_tampung_2021": 48,
+                "peminat_2021": 1570,
+                "daya_tampung_2022": 48,
                 "keketatan": 32.708333333333336
             }
         ]
@@ -141,8 +141,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "INFORMATIKA",
-                "peminat_2020": 1220,
-                "daya_tampung_2021": 38,
+                "peminat_2021": 1220,
+                "daya_tampung_2022": 38,
                 "keketatan": 32.10526315789474
             }
         ]
@@ -153,22 +153,22 @@
             {
                 "jenjang": "S1",
                 "prodi": "ILMU KOMPUTER",
-                "peminat_2020": 446,
-                "daya_tampung_2021": 14,
+                "peminat_2021": 446,
+                "daya_tampung_2022": 14,
                 "keketatan": 31.857142857142858
             },
             {
                 "jenjang": "S1",
                 "prodi": "PENDIDIKAN ILMU KOMPUTER ",
-                "peminat_2020": 69,
-                "daya_tampung_2021": 10,
+                "peminat_2021": 69,
+                "daya_tampung_2022": 10,
                 "keketatan": 6.9
             },
             {
                 "jenjang": "S1",
                 "prodi": "TEKNOLOGI INFORMASI",
-                "peminat_2020": 371,
-                "daya_tampung_2021": 13,
+                "peminat_2021": 371,
+                "daya_tampung_2022": 13,
                 "keketatan": 28.53846153846154
             }
         ]
@@ -179,8 +179,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 1100,
-                "daya_tampung_2021": 36,
+                "peminat_2021": 1100,
+                "daya_tampung_2022": 36,
                 "keketatan": 30.555555555555557
             }
         ]
@@ -191,15 +191,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 1093,
-                "daya_tampung_2021": 36,
+                "peminat_2021": 1093,
+                "daya_tampung_2022": 36,
                 "keketatan": 30.36111111111111
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 1170,
-                "daya_tampung_2021": 36,
+                "peminat_2021": 1170,
+                "daya_tampung_2022": 36,
                 "keketatan": 32.5
             }
         ]
@@ -210,8 +210,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "INFORMATIKA",
-                "peminat_2020": 1081,
-                "daya_tampung_2021": 36,
+                "peminat_2021": 1081,
+                "daya_tampung_2022": 36,
                 "keketatan": 30.02777777777778
             }
         ]
@@ -222,15 +222,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "PENDIDIKAN TEKNOLOGI INFORMATIKA DAN KOMPUTER",
-                "peminat_2020": 719,
-                "daya_tampung_2021": 24,
+                "peminat_2021": 719,
+                "daya_tampung_2022": 24,
                 "keketatan": 29.958333333333332
             },
             {
                 "jenjang": "S1",
                 "prodi": "ILMU KOMPUTER",
-                "peminat_2020": 829,
-                "daya_tampung_2021": 24,
+                "peminat_2021": 829,
+                "daya_tampung_2022": 24,
                 "keketatan": 34.541666666666664
             }
         ]
@@ -241,22 +241,22 @@
             {
                 "jenjang": "S1",
                 "prodi": "PEND. TEKNIK INFORMATIKA & KOMPUTER",
-                "peminat_2020": 701,
-                "daya_tampung_2021": 24,
+                "peminat_2021": 701,
+                "daya_tampung_2022": 24,
                 "keketatan": 29.208333333333332
             },
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 1554,
-                "daya_tampung_2021": 39,
+                "peminat_2021": 1554,
+                "daya_tampung_2022": 39,
                 "keketatan": 39.84615384615385
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 444,
-                "daya_tampung_2021": 15,
+                "peminat_2021": 444,
+                "daya_tampung_2022": 15,
                 "keketatan": 29.6
             }
         ]
@@ -267,8 +267,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 456,
-                "daya_tampung_2021": 16,
+                "peminat_2021": 456,
+                "daya_tampung_2022": 16,
                 "keketatan": 28.5
             }
         ]
@@ -279,29 +279,29 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 1450,
-                "daya_tampung_2021": 53,
+                "peminat_2021": 1450,
+                "daya_tampung_2022": 53,
                 "keketatan": 27.358490566037737
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 926,
-                "daya_tampung_2021": 44,
+                "peminat_2021": 926,
+                "daya_tampung_2022": 44,
                 "keketatan": 21.045454545454547
             },
             {
                 "jenjang": "S1",
                 "prodi": "PENDIDIKAN TEKNOLOGI INFORMASI",
-                "peminat_2020": 105,
-                "daya_tampung_2021": 27,
+                "peminat_2021": 105,
+                "daya_tampung_2022": 27,
                 "keketatan": 3.888888888888889
             },
             {
                 "jenjang": "S1",
                 "prodi": "TEKNOLOGI INFORMASI",
-                "peminat_2020": 470,
-                "daya_tampung_2021": 36,
+                "peminat_2021": 470,
+                "daya_tampung_2022": 36,
                 "keketatan": 13.055555555555555
             }
         ]
@@ -312,8 +312,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 804,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 804,
+                "daya_tampung_2022": 30,
                 "keketatan": 26.8
             }
         ]
@@ -324,8 +324,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "INFORMATIKA",
-                "peminat_2020": 744,
-                "daya_tampung_2021": 28,
+                "peminat_2021": 744,
+                "daya_tampung_2022": 28,
                 "keketatan": 26.571428571428573
             }
         ]
@@ -336,15 +336,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "ILMU KOMPUTER",
-                "peminat_2020": 626,
-                "daya_tampung_2021": 24,
+                "peminat_2021": 626,
+                "daya_tampung_2022": 24,
                 "keketatan": 26.083333333333332
             },
             {
                 "jenjang": "S1",
                 "prodi": "TEKNOLOGI INFORMASI",
-                "peminat_2020": 771,
-                "daya_tampung_2021": 33,
+                "peminat_2021": 771,
+                "daya_tampung_2022": 33,
                 "keketatan": 23.363636363636363
             }
         ]
@@ -355,15 +355,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 450,
-                "daya_tampung_2021": 18,
+                "peminat_2021": 450,
+                "daya_tampung_2022": 18,
                 "keketatan": 25.0
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI ",
-                "peminat_2020": 229,
-                "daya_tampung_2021": 20,
+                "peminat_2021": 229,
+                "daya_tampung_2022": 20,
                 "keketatan": 11.45
             }
         ]
@@ -374,15 +374,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 394,
-                "daya_tampung_2021": 16,
+                "peminat_2021": 394,
+                "daya_tampung_2022": 16,
                 "keketatan": 24.625
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 63,
-                "daya_tampung_2021": 8,
+                "peminat_2021": 63,
+                "daya_tampung_2022": 8,
                 "keketatan": 7.875
             }
         ]
@@ -393,15 +393,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "INFORMATIKA",
-                "peminat_2020": 823,
-                "daya_tampung_2021": 35,
+                "peminat_2021": 823,
+                "daya_tampung_2022": 35,
                 "keketatan": 23.514285714285716
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 913,
-                "daya_tampung_2021": 35,
+                "peminat_2021": 913,
+                "daya_tampung_2022": 35,
                 "keketatan": 26.085714285714285
             }
         ]
@@ -412,15 +412,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "ILMU KOMPUTER",
-                "peminat_2020": 693,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 693,
+                "daya_tampung_2022": 30,
                 "keketatan": 23.1
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 586,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 586,
+                "daya_tampung_2022": 30,
                 "keketatan": 19.533333333333335
             }
         ]
@@ -431,15 +431,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 460,
-                "daya_tampung_2021": 20,
+                "peminat_2021": 460,
+                "daya_tampung_2022": 20,
                 "keketatan": 23.0
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 121,
-                "daya_tampung_2021": 16,
+                "peminat_2021": 121,
+                "daya_tampung_2022": 16,
                 "keketatan": 7.5625
             }
         ]
@@ -450,22 +450,22 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 1336,
-                "daya_tampung_2021": 60,
+                "peminat_2021": 1336,
+                "daya_tampung_2022": 60,
                 "keketatan": 22.266666666666666
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 661,
-                "daya_tampung_2021": 44,
+                "peminat_2021": 661,
+                "daya_tampung_2022": 44,
                 "keketatan": 15.022727272727273
             },
             {
                 "jenjang": "S1",
                 "prodi": "TEKNOLOGI INFORMASI",
-                "peminat_2020": 196,
-                "daya_tampung_2021": 16,
+                "peminat_2021": 196,
+                "daya_tampung_2022": 16,
                 "keketatan": 12.25
             }
         ]
@@ -476,15 +476,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 796,
-                "daya_tampung_2021": 36,
+                "peminat_2021": 796,
+                "daya_tampung_2022": 36,
                 "keketatan": 22.11111111111111
             },
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 1129,
-                "daya_tampung_2021": 24,
+                "peminat_2021": 1129,
+                "daya_tampung_2022": 24,
                 "keketatan": 47.041666666666664
             }
         ]
@@ -495,22 +495,22 @@
             {
                 "jenjang": "S1",
                 "prodi": "PENDIDIKAN INFORMATIKA",
-                "peminat_2020": 417,
-                "daya_tampung_2021": 20,
+                "peminat_2021": 417,
+                "daya_tampung_2022": 20,
                 "keketatan": 20.85
             },
             {
                 "jenjang": "S1",
                 "prodi": "ILMU KOMPUTER",
-                "peminat_2020": 673,
-                "daya_tampung_2021": 10,
+                "peminat_2021": 673,
+                "daya_tampung_2022": 10,
                 "keketatan": 67.3
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM DAN TEKNOLOGI INFORMASI",
-                "peminat_2020": 429,
-                "daya_tampung_2021": 10,
+                "peminat_2021": 429,
+                "daya_tampung_2022": 10,
                 "keketatan": 42.9
             }
         ]
@@ -521,15 +521,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 1087,
-                "daya_tampung_2021": 54,
+                "peminat_2021": 1087,
+                "daya_tampung_2022": 54,
                 "keketatan": 20.12962962962963
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 532,
-                "daya_tampung_2021": 36,
+                "peminat_2021": 532,
+                "daya_tampung_2022": 36,
                 "keketatan": 14.777777777777779
             }
         ]
@@ -540,15 +540,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 689,
-                "daya_tampung_2021": 36,
+                "peminat_2021": 689,
+                "daya_tampung_2022": 36,
                 "keketatan": 19.13888888888889
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 485,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 485,
+                "daya_tampung_2022": 30,
                 "keketatan": 16.166666666666668
             }
         ]
@@ -559,15 +559,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 852,
-                "daya_tampung_2021": 48,
+                "peminat_2021": 852,
+                "daya_tampung_2022": 48,
                 "keketatan": 17.75
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 231,
-                "daya_tampung_2021": 36,
+                "peminat_2021": 231,
+                "daya_tampung_2022": 36,
                 "keketatan": 6.416666666666667
             }
         ]
@@ -578,15 +578,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "PEND. TEKNIK INFORMATIKA DAN KOMPUTER",
-                "peminat_2020": 418,
-                "daya_tampung_2021": 24,
+                "peminat_2021": 418,
+                "daya_tampung_2022": 24,
                 "keketatan": 17.416666666666668
             },
             {
                 "jenjang": "S1",
                 "prodi": "INFORMATIKA",
-                "peminat_2020": 372,
-                "daya_tampung_2021": 12,
+                "peminat_2021": 372,
+                "daya_tampung_2022": 12,
                 "keketatan": 31.0
             }
         ]
@@ -597,8 +597,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 339,
-                "daya_tampung_2021": 20,
+                "peminat_2021": 339,
+                "daya_tampung_2022": 20,
                 "keketatan": 16.95
             }
         ]
@@ -609,15 +609,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "INFORMATIKA",
-                "peminat_2020": 508,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 508,
+                "daya_tampung_2022": 30,
                 "keketatan": 16.933333333333334
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 355,
-                "daya_tampung_2021": 20,
+                "peminat_2021": 355,
+                "daya_tampung_2022": 20,
                 "keketatan": 17.75
             }
         ]
@@ -628,8 +628,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 965,
-                "daya_tampung_2021": 60,
+                "peminat_2021": 965,
+                "daya_tampung_2022": 60,
                 "keketatan": 16.083333333333332
             }
         ]
@@ -640,22 +640,22 @@
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 463,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 463,
+                "daya_tampung_2022": 30,
                 "keketatan": 15.433333333333334
             },
             {
                 "jenjang": "S1",
                 "prodi": "TEKNOLOGI INFORMASI",
-                "peminat_2020": 331,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 331,
+                "daya_tampung_2022": 30,
                 "keketatan": 11.033333333333333
             },
             {
                 "jenjang": "S1",
                 "prodi": "INFORMATIKA",
-                "peminat_2020": 326,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 326,
+                "daya_tampung_2022": 30,
                 "keketatan": 10.866666666666667
             }
         ]
@@ -666,8 +666,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 92,
-                "daya_tampung_2021": 6,
+                "peminat_2021": 92,
+                "daya_tampung_2022": 6,
                 "keketatan": 15.333333333333334
             }
         ]
@@ -678,8 +678,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "ILMU KOMPUTER",
-                "peminat_2020": 374,
-                "daya_tampung_2021": 25,
+                "peminat_2021": 374,
+                "daya_tampung_2022": 25,
                 "keketatan": 14.96
             }
         ]
@@ -690,15 +690,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 538,
-                "daya_tampung_2021": 36,
+                "peminat_2021": 538,
+                "daya_tampung_2022": 36,
                 "keketatan": 14.944444444444445
             },
             {
                 "jenjang": "S1",
                 "prodi": "ILMU KOMPUTER",
-                "peminat_2020": 184,
-                "daya_tampung_2021": 18,
+                "peminat_2021": 184,
+                "daya_tampung_2022": 18,
                 "keketatan": 10.222222222222221
             }
         ]
@@ -709,15 +709,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 172,
-                "daya_tampung_2021": 12,
+                "peminat_2021": 172,
+                "daya_tampung_2022": 12,
                 "keketatan": 14.333333333333334
             },
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 271,
-                "daya_tampung_2021": 10,
+                "peminat_2021": 271,
+                "daya_tampung_2022": 10,
                 "keketatan": 27.1
             }
         ]
@@ -728,15 +728,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "PENDIDIKAN TEKNIK INFORMATIKA ",
-                "peminat_2020": 224,
-                "daya_tampung_2021": 16,
+                "peminat_2021": 224,
+                "daya_tampung_2022": 16,
                 "keketatan": 14.0
             },
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 814,
-                "daya_tampung_2021": 16,
+                "peminat_2021": 814,
+                "daya_tampung_2022": 16,
                 "keketatan": 50.875
             }
         ]
@@ -747,8 +747,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 259,
-                "daya_tampung_2021": 19,
+                "peminat_2021": 259,
+                "daya_tampung_2022": 19,
                 "keketatan": 13.631578947368421
             }
         ]
@@ -759,29 +759,29 @@
             {
                 "jenjang": "S1",
                 "prodi": "PENDIDIKAN ILMU KOMPUTER",
-                "peminat_2020": 361,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 361,
+                "daya_tampung_2022": 30,
                 "keketatan": 12.033333333333333
             },
             {
                 "jenjang": "S1",
                 "prodi": "ILMU KOMPUTER",
-                "peminat_2020": 1008,
-                "daya_tampung_2021": 20,
+                "peminat_2021": 1008,
+                "daya_tampung_2022": 20,
                 "keketatan": 50.4
             },
             {
                 "jenjang": "S1",
                 "prodi": "PENDIDIKAN SISTEM DAN TEKNOLOGI INFORMASI KAMPUS PURWAKARTA",
-                "peminat_2020": 174,
-                "daya_tampung_2021": 25,
+                "peminat_2021": 174,
+                "daya_tampung_2022": 25,
                 "keketatan": 6.96
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI KELAUTAN KAMPUS SERANG",
-                "peminat_2020": 88,
-                "daya_tampung_2021": 40,
+                "peminat_2021": 88,
+                "daya_tampung_2022": 40,
                 "keketatan": 2.2
             }
         ]
@@ -792,8 +792,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "PENDIDIKAN TEKNIK INFORMATIKA & KOMPUTER",
-                "peminat_2020": 754,
-                "daya_tampung_2021": 65,
+                "peminat_2021": 754,
+                "daya_tampung_2022": 65,
                 "keketatan": 11.6
             }
         ]
@@ -804,8 +804,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 284,
-                "daya_tampung_2021": 26,
+                "peminat_2021": 284,
+                "daya_tampung_2022": 26,
                 "keketatan": 10.923076923076923
             }
         ]
@@ -816,22 +816,22 @@
             {
                 "jenjang": "S1",
                 "prodi": "ILMU KOMPUTER",
-                "peminat_2020": 617,
-                "daya_tampung_2021": 58,
+                "peminat_2021": 617,
+                "daya_tampung_2022": 58,
                 "keketatan": 10.637931034482758
             },
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 616,
-                "daya_tampung_2021": 45,
+                "peminat_2021": 616,
+                "daya_tampung_2022": 45,
                 "keketatan": 13.688888888888888
             },
             {
                 "jenjang": "S1",
                 "prodi": "PENDIDIKAN TEKNOLOGI INFORMASI",
-                "peminat_2020": 174,
-                "daya_tampung_2021": 26,
+                "peminat_2021": 174,
+                "daya_tampung_2022": 26,
                 "keketatan": 6.6923076923076925
             }
         ]
@@ -842,15 +842,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "ILMU KOMPUTER",
-                "peminat_2020": 585,
-                "daya_tampung_2021": 60,
+                "peminat_2021": 585,
+                "daya_tampung_2022": 60,
                 "keketatan": 9.75
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 324,
-                "daya_tampung_2021": 60,
+                "peminat_2021": 324,
+                "daya_tampung_2022": 60,
                 "keketatan": 5.4
             }
         ]
@@ -861,8 +861,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK PERANGKAT LUNAK (TEK. INFORMATIKA)",
-                "peminat_2020": 381,
-                "daya_tampung_2021": 40,
+                "peminat_2021": 381,
+                "daya_tampung_2022": 40,
                 "keketatan": 9.525
             }
         ]
@@ -873,8 +873,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNOLOGI INFORMASI",
-                "peminat_2020": 437,
-                "daya_tampung_2021": 48,
+                "peminat_2021": 437,
+                "daya_tampung_2022": 48,
                 "keketatan": 9.104166666666666
             }
         ]
@@ -885,8 +885,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNOLOGI INFORMASI",
-                "peminat_2020": 216,
-                "daya_tampung_2021": 26,
+                "peminat_2021": 216,
+                "daya_tampung_2022": 26,
                 "keketatan": 8.307692307692308
             }
         ]
@@ -897,8 +897,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 426,
-                "daya_tampung_2021": 52,
+                "peminat_2021": 426,
+                "daya_tampung_2022": 52,
                 "keketatan": 8.192307692307692
             }
         ]
@@ -909,15 +909,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 206,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 206,
+                "daya_tampung_2022": 30,
                 "keketatan": 6.866666666666666
             },
             {
                 "jenjang": "S1",
                 "prodi": "INFORMATIKA",
-                "peminat_2020": 220,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 220,
+                "daya_tampung_2022": 30,
                 "keketatan": 7.333333333333333
             }
         ]
@@ -928,15 +928,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "INFORMATIKA",
-                "peminat_2020": 692,
-                "daya_tampung_2021": 105,
+                "peminat_2021": 692,
+                "daya_tampung_2022": 105,
                 "keketatan": 6.59047619047619
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 620,
-                "daya_tampung_2021": 78,
+                "peminat_2021": 620,
+                "daya_tampung_2022": 78,
                 "keketatan": 7.948717948717949
             }
         ]
@@ -947,8 +947,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 158,
-                "daya_tampung_2021": 24,
+                "peminat_2021": 158,
+                "daya_tampung_2022": 24,
                 "keketatan": 6.583333333333333
             }
         ]
@@ -959,15 +959,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "INFORMATIKA",
-                "peminat_2020": 337,
-                "daya_tampung_2021": 53,
+                "peminat_2021": 337,
+                "daya_tampung_2022": 53,
                 "keketatan": 6.3584905660377355
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 45,
-                "daya_tampung_2021": 31,
+                "peminat_2021": 45,
+                "daya_tampung_2022": 31,
                 "keketatan": 1.4516129032258065
             }
         ]
@@ -978,8 +978,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 733,
-                "daya_tampung_2021": 117,
+                "peminat_2021": 733,
+                "daya_tampung_2022": 117,
                 "keketatan": 6.264957264957265
             }
         ]
@@ -990,8 +990,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 216,
-                "daya_tampung_2021": 36,
+                "peminat_2021": 216,
+                "daya_tampung_2022": 36,
                 "keketatan": 6.0
             }
         ]
@@ -1002,22 +1002,22 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 411,
-                "daya_tampung_2021": 70,
+                "peminat_2021": 411,
+                "daya_tampung_2022": 70,
                 "keketatan": 5.871428571428571
             },
             {
                 "jenjang": "S1",
                 "prodi": "PENDIDIKAN INFORMATIKA",
-                "peminat_2020": 150,
-                "daya_tampung_2021": 46,
+                "peminat_2021": 150,
+                "daya_tampung_2022": 46,
                 "keketatan": 3.260869565217391
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 192,
-                "daya_tampung_2021": 70,
+                "peminat_2021": 192,
+                "daya_tampung_2022": 70,
                 "keketatan": 2.742857142857143
             }
         ]
@@ -1028,15 +1028,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 219,
-                "daya_tampung_2021": 40,
+                "peminat_2021": 219,
+                "daya_tampung_2022": 40,
                 "keketatan": 5.475
             },
             {
                 "jenjang": "S1",
                 "prodi": "PENDIDIKAN TEKNOLOGI INFORMASI",
-                "peminat_2020": 85,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 85,
+                "daya_tampung_2022": 30,
                 "keketatan": 2.8333333333333335
             }
         ]
@@ -1047,22 +1047,22 @@
             {
                 "jenjang": "S1",
                 "prodi": "PENDIDIKAN TEKNIK INFORMATIKA",
-                "peminat_2020": 164,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 164,
+                "daya_tampung_2022": 30,
                 "keketatan": 5.466666666666667
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 144,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 144,
+                "daya_tampung_2022": 30,
                 "keketatan": 4.8
             },
             {
                 "jenjang": "S1",
                 "prodi": "ILMU KOMPUTER",
-                "peminat_2020": 74,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 74,
+                "daya_tampung_2022": 30,
                 "keketatan": 2.466666666666667
             }
         ]
@@ -1073,8 +1073,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 198,
-                "daya_tampung_2021": 42,
+                "peminat_2021": 198,
+                "daya_tampung_2022": 42,
                 "keketatan": 4.714285714285714
             }
         ]
@@ -1085,15 +1085,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 569,
-                "daya_tampung_2021": 125,
+                "peminat_2021": 569,
+                "daya_tampung_2022": 125,
                 "keketatan": 4.552
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 168,
-                "daya_tampung_2021": 100,
+                "peminat_2021": 168,
+                "daya_tampung_2022": 100,
                 "keketatan": 1.68
             }
         ]
@@ -1104,8 +1104,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 160,
-                "daya_tampung_2021": 36,
+                "peminat_2021": 160,
+                "daya_tampung_2022": 36,
                 "keketatan": 4.444444444444445
             }
         ]
@@ -1116,8 +1116,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 80,
-                "daya_tampung_2021": 18,
+                "peminat_2021": 80,
+                "daya_tampung_2022": 18,
                 "keketatan": 4.444444444444445
             }
         ]
@@ -1128,22 +1128,22 @@
             {
                 "jenjang": "S1",
                 "prodi": "PENDIDIKAN TEKNOLOGI INFORMASI",
-                "peminat_2020": 140,
-                "daya_tampung_2021": 33,
+                "peminat_2021": 140,
+                "daya_tampung_2022": 33,
                 "keketatan": 4.242424242424242
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 364,
-                "daya_tampung_2021": 43,
+                "peminat_2021": 364,
+                "daya_tampung_2022": 43,
                 "keketatan": 8.465116279069768
             },
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 545,
-                "daya_tampung_2021": 42,
+                "peminat_2021": 545,
+                "daya_tampung_2022": 42,
                 "keketatan": 12.976190476190476
             }
         ]
@@ -1154,8 +1154,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNOLOGI INFORMASI",
-                "peminat_2020": 153,
-                "daya_tampung_2021": 48,
+                "peminat_2021": 153,
+                "daya_tampung_2022": 48,
                 "keketatan": 3.1875
             }
         ]
@@ -1166,8 +1166,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 235,
-                "daya_tampung_2021": 80,
+                "peminat_2021": 235,
+                "daya_tampung_2022": 80,
                 "keketatan": 2.9375
             }
         ]
@@ -1178,8 +1178,8 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNOLOGI INFORMASI",
-                "peminat_2020": 82,
-                "daya_tampung_2021": 30,
+                "peminat_2021": 82,
+                "daya_tampung_2022": 30,
                 "keketatan": 2.7333333333333334
             }
         ]
@@ -1190,15 +1190,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "PENDIDIKAN TEKNOLOGI INFORMASI",
-                "peminat_2020": 50,
-                "daya_tampung_2021": 21,
+                "peminat_2021": 50,
+                "daya_tampung_2022": 21,
                 "keketatan": 2.380952380952381
             },
             {
                 "jenjang": "S1",
                 "prodi": "TEKNOLOGI INFORMASI",
-                "peminat_2020": 85,
-                "daya_tampung_2021": 27,
+                "peminat_2021": 85,
+                "daya_tampung_2022": 27,
                 "keketatan": 3.1481481481481484
             }
         ]
@@ -1209,15 +1209,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 54,
-                "daya_tampung_2021": 45,
+                "peminat_2021": 54,
+                "daya_tampung_2022": 45,
                 "keketatan": 1.2
             },
             {
                 "jenjang": "S1",
                 "prodi": "ILMU KOMPUTER",
-                "peminat_2020": 57,
-                "daya_tampung_2021": 40,
+                "peminat_2021": 57,
+                "daya_tampung_2022": 40,
                 "keketatan": 1.425
             }
         ]
@@ -1228,15 +1228,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "TEKNIK INFORMATIKA",
-                "peminat_2020": 26,
-                "daya_tampung_2021": 24,
+                "peminat_2021": 26,
+                "daya_tampung_2022": 24,
                 "keketatan": 1.0833333333333333
             },
             {
                 "jenjang": "S1",
                 "prodi": "SISTEM INFORMASI",
-                "peminat_2020": 24,
-                "daya_tampung_2021": 16,
+                "peminat_2021": 24,
+                "daya_tampung_2022": 16,
                 "keketatan": 1.5
             }
         ]
@@ -1267,15 +1267,15 @@
             {
                 "jenjang": "S1",
                 "prodi": "SEKOLAH TEKNIK ELEKTRO DAN INFORMATIKA (STEI) - KOMPUTASI",
-                "peminat_2020": 0,
-                "daya_tampung_2021": 100,
+                "peminat_2021": 0,
+                "daya_tampung_2022": 100,
                 "keketatan": 0.0
             },
             {
                 "jenjang": "S1",
                 "prodi": "SEKOLAH TEKNIK ELEKTRO DAN INFORMATIKA (STEI) - REKAYASA",
-                "peminat_2020": 0,
-                "daya_tampung_2021": 102,
+                "peminat_2021": 0,
+                "daya_tampung_2022": 102,
                 "keketatan": 0.0
             }
         ]

@@ -4,7 +4,10 @@ from bs4 import BeautifulSoup
 import math
 
 URL = "https://sidata-ptn.ltmpt.ac.id/ptn_sn.php"
-MY_PRODI = ["Sistem Informasi",'informatika','teknik informatika','Ilmu Komputasi','Ilmu Komputer', 'Matematika Komputasi',"teknologi informasi",'Manajemen Informatika','Data sains']
+# MY_PRODI = ["Sistem Informasi",'informatika','teknik informatika','Ilmu Komputasi','Ilmu Komputer', 'Matematika Komputasi',"teknologi informasi",'Manajemen Informatika','Data sains']
+# MY_PRODI = ["Akuntansi"]
+MY_PRODI = ["industri gizi"]
+
 
 
 def getRequest(url):
@@ -51,28 +54,28 @@ def sortListofObject(kampus):
 
 def kampus():
     pass
-
+ 
 def findProdi(url):
     daftar_prodi = []
     try:
         html = getRequest(URL+url)
         soup = getSoup(html)
-        tbody = soup.findChildren('tbody')
-
-        tr = tbody[0].findChildren('tr')
-        
-        for link in tr:
-            if lowercase(link.findChildren('td')[3].text) == "s1":
-                if isProdi(link.findChildren('td')[2].findChildren('a')[0].text,MY_PRODI):
-                    summary = {}
-                    summary['jenjang'] = link.findChildren('td')[3].text
-                    summary['prodi'] = link.findChildren('td')[2].findChildren('a')[0].text
-                    summary['peminat_2020'] = int(removeSpacing(link.findChildren('td')[5].text).replace("\n", "").replace("\r", ""))
-                    summary['daya_tampung_2021'] =  int(link.findChildren('td')[4].text)
-                    summary['keketatan'] =  float(summary.get('peminat_2020'))/float(summary.get('daya_tampung_2021'))
-                    daftar_prodi.append(summary)
+        tbodys = soup.findChildren('tbody')
+        for tbody in tbodys:
+            tr = tbody.findChildren('tr')
+            for link in tr:
+                if lowercase(link.findChildren('td')[3].text) == "s1":
+                    if isProdi(link.findChildren('td')[2].findChildren('a')[0].text,MY_PRODI):
+                        summary = {}
+                        summary['jenjang'] = link.findChildren('td')[3].text
+                        summary['prodi'] = link.findChildren('td')[2].findChildren('a')[0].text
+                        summary['peminat_2021'] = int(removeSpacing(link.findChildren('td')[5].text).replace("\n", "").replace("\r", ""))
+                        summary['daya_tampung_2022'] =  int(link.findChildren('td')[4].text)
+                        summary['keketatan'] =  float(summary.get('peminat_2021'))/float(summary.get('daya_tampung_2022'))
+                        daftar_prodi.append(summary)
         return daftar_prodi
     except IndexError as e:
+        print(e)
         return []
 
 def main():    
@@ -82,6 +85,7 @@ def main():
     tbody = soup.findChildren('tbody')
 
     tr = tbody[0].findChildren('tr')
+    link= tr[0]
 
     for link in tr:
         kampus.append({
@@ -91,7 +95,7 @@ def main():
 
     kampus = sortListofObject(kampus)
     # # write to json
-    with open('kampusInformatika.json', 'w') as outfile:
+    with open('kampusIndustriGizi.json', 'w') as outfile:
         json.dump(kampus, outfile, indent=4)
     # read kampus.json 
     # write and read kampusInformatika.json
