@@ -1,0 +1,751 @@
+[
+    {
+        "universitas": "UNIVERSITAS PENDIDIKAN INDONESIA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 1851,
+                "daya_tampung_2022": 40,
+                "keketatan": 46.275
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS GADJAH MADA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI KESEHATAN",
+                "peminat_2021": 1203,
+                "daya_tampung_2022": 30,
+                "keketatan": 40.1
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI PANGAN DAN HASIL PERTANIAN",
+                "peminat_2021": 679,
+                "daya_tampung_2022": 33,
+                "keketatan": 20.575757575757574
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS INDONESIA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 652,
+                "daya_tampung_2022": 20,
+                "keketatan": 32.6
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS DIPONEGORO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 1213,
+                "daya_tampung_2022": 41,
+                "keketatan": 29.585365853658537
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI PANGAN",
+                "peminat_2021": 757,
+                "daya_tampung_2022": 60,
+                "keketatan": 12.616666666666667
+            }
+        ]
+    },
+    {
+        "universitas": "UPN \"VETERAN\" JAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 1497,
+                "daya_tampung_2022": 53,
+                "keketatan": 28.245283018867923
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI SEMARANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 1442,
+                "daya_tampung_2022": 54,
+                "keketatan": 26.703703703703702
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SUMATERA UTARA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU DAN TEKNOLOGI PANGAN",
+                "peminat_2021": 678,
+                "daya_tampung_2022": 30,
+                "keketatan": 22.6
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 0,
+                "daya_tampung_2022": 12,
+                "keketatan": 0.0
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS AIRLANGGA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 936,
+                "daya_tampung_2022": 42,
+                "keketatan": 22.285714285714285
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "STUDI KEJEPANGAN",
+                "peminat_2021": 278,
+                "daya_tampung_2022": 30,
+                "keketatan": 9.266666666666667
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 600,
+                "daya_tampung_2022": 28,
+                "keketatan": 21.428571428571427
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ANDALAS",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 968,
+                "daya_tampung_2022": 48,
+                "keketatan": 20.166666666666668
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SEBELAS MARET",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU DAN TEKNOLOGI PANGAN",
+                "peminat_2021": 844,
+                "daya_tampung_2022": 42,
+                "keketatan": 20.095238095238095
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT PERTANIAN BOGOR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI PANGAN",
+                "peminat_2021": 935,
+                "daya_tampung_2022": 47,
+                "keketatan": 19.893617021276597
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU GIZI",
+                "peminat_2021": 1165,
+                "daya_tampung_2022": 33,
+                "keketatan": 35.303030303030305
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MEDAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 1091,
+                "daya_tampung_2022": 65,
+                "keketatan": 16.784615384615385
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS JENDERAL SOEDIRMAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI PANGAN",
+                "peminat_2021": 798,
+                "daya_tampung_2022": 48,
+                "keketatan": 16.625
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU GIZI",
+                "peminat_2021": 1183,
+                "daya_tampung_2022": 48,
+                "keketatan": 24.645833333333332
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SILIWANGI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 703,
+                "daya_tampung_2022": 45,
+                "keketatan": 15.622222222222222
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SRIWIJAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 742,
+                "daya_tampung_2022": 50,
+                "keketatan": 14.84
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PADJADJARAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI  PANGAN",
+                "peminat_2021": 869,
+                "daya_tampung_2022": 60,
+                "keketatan": 14.483333333333333
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PERIKANAN PSDKU PANGANDARAN",
+                "peminat_2021": 110,
+                "daya_tampung_2022": 18,
+                "keketatan": 6.111111111111111
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PETERNAKAN PSDKU PANGANDARAN",
+                "peminat_2021": 91,
+                "daya_tampung_2022": 140,
+                "keketatan": 0.65
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "KEPERAWATAN PSDKU PANGANDARAN",
+                "peminat_2021": 197,
+                "daya_tampung_2022": 20,
+                "keketatan": 9.85
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ADMINISTRASI BISNIS PSDKU PANGANDARAN",
+                "peminat_2021": 231,
+                "daya_tampung_2022": 10,
+                "keketatan": 23.1
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU KOMUNIKASI PSDKU PANGANDARAN",
+                "peminat_2021": 222,
+                "daya_tampung_2022": 15,
+                "keketatan": 14.8
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 214,
+                "daya_tampung_2022": 15,
+                "keketatan": 14.266666666666667
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS BRAWIJAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI PANGAN",
+                "peminat_2021": 905,
+                "daya_tampung_2022": 70,
+                "keketatan": 12.928571428571429
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU GIZI",
+                "peminat_2021": 1346,
+                "daya_tampung_2022": 53,
+                "keketatan": 25.39622641509434
+            }
+        ]
+    },
+    {
+        "universitas": "UPN \"VETERAN\" JAWA TIMUR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI PANGAN",
+                "peminat_2021": 765,
+                "daya_tampung_2022": 62,
+                "keketatan": 12.338709677419354
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS JEMBER",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 506,
+                "daya_tampung_2022": 45,
+                "keketatan": 11.244444444444444
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI SURABAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 971,
+                "daya_tampung_2022": 94,
+                "keketatan": 10.329787234042554
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI PANGAN",
+                "peminat_2021": 533,
+                "daya_tampung_2022": 54,
+                "keketatan": 9.87037037037037
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 648,
+                "daya_tampung_2022": 18,
+                "keketatan": 36.0
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TADULAKO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 414,
+                "daya_tampung_2022": 45,
+                "keketatan": 9.2
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 418,
+                "daya_tampung_2022": 54,
+                "keketatan": 7.7407407407407405
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MAKASSAR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 694,
+                "daya_tampung_2022": 104,
+                "keketatan": 6.673076923076923
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS UDAYANA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI PANGAN",
+                "peminat_2021": 210,
+                "daya_tampung_2022": 32,
+                "keketatan": 6.5625
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS HASANUDDIN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU DAN TEKNOLOGI PANGAN ",
+                "peminat_2021": 328,
+                "daya_tampung_2022": 55,
+                "keketatan": 5.963636363636364
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU GIZI ",
+                "peminat_2021": 947,
+                "daya_tampung_2022": 24,
+                "keketatan": 39.458333333333336
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI SUMATERA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI PANGAN",
+                "peminat_2021": 469,
+                "daya_tampung_2022": 79,
+                "keketatan": 5.936708860759493
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MATARAM",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU DAN TEKNOLOGI PANGAN",
+                "peminat_2021": 377,
+                "daya_tampung_2022": 75,
+                "keketatan": 5.026666666666666
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TEUKU UMAR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 328,
+                "daya_tampung_2022": 100,
+                "keketatan": 3.28
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TANJUNGPURA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU DAN TEKNOLOGI PANGAN",
+                "peminat_2021": 132,
+                "daya_tampung_2022": 50,
+                "keketatan": 2.64
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS HALUOLEO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU DAN TEKNOLOGI PANGAN",
+                "peminat_2021": 49,
+                "daya_tampung_2022": 20,
+                "keketatan": 2.45
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 287,
+                "daya_tampung_2022": 32,
+                "keketatan": 8.96875
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SULAWESI BARAT",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "GIZI",
+                "peminat_2021": 226,
+                "daya_tampung_2022": 100,
+                "keketatan": 2.26
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI GORONTALO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "ILMU TEKNOLOGI PANGAN",
+                "peminat_2021": 45,
+                "daya_tampung_2022": 50,
+                "keketatan": 0.9
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SAM RATULANGI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI PANGAN",
+                "peminat_2021": 25,
+                "daya_tampung_2022": 35,
+                "keketatan": 0.7142857142857143
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SYIAH KUALA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS MALIKUSSALEH",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SAMUDRA",
+        "prodi": []
+    },
+    {
+        "universitas": "ISBI ACEH",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUMATERA UTARA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS RIAU",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI PADANG",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI PADANG PANJANG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS JAMBI",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS BENGKULU",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI RADEN FATAH",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS BANGKA BELITUNG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS LAMPUNG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI JAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI BANDUNG",
+        "prodi": []
+    },
+    {
+        "universitas": "ISBI BANDUNG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS TIDAR",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI SURAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI YOGYAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UPN \"VETERAN\" YOGYAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI YOGYAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MALANG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI MALANG",
+        "prodi": []
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PANGAN",
+                "peminat_2021": 0,
+                "daya_tampung_2022": 12,
+                "keketatan": 0.0
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TRUNOJOYO MADURA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS PALANGKARAYA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS LAMBUNG MANGKURAT",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS MULAWARMAN",
+        "prodi": []
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI KALIMANTAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI PANGAN",
+                "peminat_2021": 0,
+                "daya_tampung_2022": 30,
+                "keketatan": 0.0
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS BORNEO TARAKAN",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS PENDIDIKAN GANESHA",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI DENPASAR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NUSA CENDANA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS TIMOR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MANADO",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS PATTIMURA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS KHAIRUN",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS CENDERAWASIH",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS MUSAMUS MERAUKE",
+        "prodi": []
+    },
+    {
+        "universitas": "ISBI TANAH PAPUA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS PAPUA",
+        "prodi": []
+    }
+]

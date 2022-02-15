@@ -1,0 +1,863 @@
+[
+    {
+        "universitas": "UNIVERSITAS SEBELAS MARET",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 661,
+                "daya_tampung_2022": 30,
+                "keketatan": 22.033333333333335
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK MESIN",
+                "peminat_2021": 201,
+                "daya_tampung_2022": 16,
+                "keketatan": 12.5625
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS DIPONEGORO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 627,
+                "daya_tampung_2022": 38,
+                "keketatan": 16.5
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MEDAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK MESIN",
+                "peminat_2021": 376,
+                "daya_tampung_2022": 24,
+                "keketatan": 15.666666666666666
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ANDALAS",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 435,
+                "daya_tampung_2022": 30,
+                "keketatan": 14.5
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI YOGYAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK MESIN",
+                "peminat_2021": 345,
+                "daya_tampung_2022": 24,
+                "keketatan": 14.375
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SRIWIJAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 396,
+                "daya_tampung_2022": 28,
+                "keketatan": 14.142857142857142
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PEND TEKNIK MESIN",
+                "peminat_2021": 112,
+                "daya_tampung_2022": 20,
+                "keketatan": 5.6
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SUMATERA UTARA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 386,
+                "daya_tampung_2022": 30,
+                "keketatan": 12.866666666666667
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS RIAU",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 452,
+                "daya_tampung_2022": 36,
+                "keketatan": 12.555555555555555
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 375,
+                "daya_tampung_2022": 30,
+                "keketatan": 12.5
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN VOKASIONAL TEKNIK MESIN",
+                "peminat_2021": 54,
+                "daya_tampung_2022": 20,
+                "keketatan": 2.7
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 613,
+                "daya_tampung_2022": 52,
+                "keketatan": 11.788461538461538
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS BRAWIJAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 554,
+                "daya_tampung_2022": 47,
+                "keketatan": 11.787234042553191
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS INDONESIA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 167,
+                "daya_tampung_2022": 16,
+                "keketatan": 10.4375
+            }
+        ]
+    },
+    {
+        "universitas": "UPN \"VETERAN\" JAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 214,
+                "daya_tampung_2022": 21,
+                "keketatan": 10.19047619047619
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS HASANUDDIN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN ",
+                "peminat_2021": 292,
+                "daya_tampung_2022": 30,
+                "keketatan": 9.733333333333333
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 507,
+                "daya_tampung_2022": 54,
+                "keketatan": 9.38888888888889
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS GADJAH MADA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 328,
+                "daya_tampung_2022": 45,
+                "keketatan": 7.288888888888889
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI JAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN VOKASIONAL TEKNIK MESIN",
+                "peminat_2021": 154,
+                "daya_tampung_2022": 23,
+                "keketatan": 6.695652173913044
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 631,
+                "daya_tampung_2022": 10,
+                "keketatan": 63.1
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SYIAH KUALA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 229,
+                "daya_tampung_2022": 35,
+                "keketatan": 6.542857142857143
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI BANDUNG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "FAKULTAS TEKNIK MESIN & DIRGANTARA (FTMD)",
+                "peminat_2021": 754,
+                "daya_tampung_2022": 123,
+                "keketatan": 6.130081300813008
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS JEMBER",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 215,
+                "daya_tampung_2022": 36,
+                "keketatan": 5.972222222222222
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI SEMARANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK MESIN",
+                "peminat_2021": 161,
+                "daya_tampung_2022": 27,
+                "keketatan": 5.962962962962963
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 643,
+                "daya_tampung_2022": 45,
+                "keketatan": 14.28888888888889
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TIDAR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 185,
+                "daya_tampung_2022": 32,
+                "keketatan": 5.78125
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI KALIMANTAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 171,
+                "daya_tampung_2022": 30,
+                "keketatan": 5.7
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PENDIDIKAN INDONESIA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK MESIN",
+                "peminat_2021": 174,
+                "daya_tampung_2022": 35,
+                "keketatan": 4.9714285714285715
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS LAMPUNG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 219,
+                "daya_tampung_2022": 45,
+                "keketatan": 4.866666666666666
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS BENGKULU",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 94,
+                "daya_tampung_2022": 20,
+                "keketatan": 4.7
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MALANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK MESIN ",
+                "peminat_2021": 110,
+                "daya_tampung_2022": 24,
+                "keketatan": 4.583333333333333
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 352,
+                "daya_tampung_2022": 16,
+                "keketatan": 22.0
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PENDIDIKAN GANESHA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK MESIN",
+                "peminat_2021": 41,
+                "daya_tampung_2022": 9,
+                "keketatan": 4.555555555555555
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MATARAM",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 135,
+                "daya_tampung_2022": 30,
+                "keketatan": 4.5
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS LAMBUNG MANGKURAT",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 68,
+                "daya_tampung_2022": 16,
+                "keketatan": 4.25
+            }
+        ]
+    },
+    {
+        "universitas": "UPN \"VETERAN\" JAWA TIMUR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 114,
+                "daya_tampung_2022": 28,
+                "keketatan": 4.071428571428571
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TADULAKO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 61,
+                "daya_tampung_2022": 16,
+                "keketatan": 3.8125
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI PADANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK MESIN",
+                "peminat_2021": 109,
+                "daya_tampung_2022": 30,
+                "keketatan": 3.6333333333333333
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN (NK)",
+                "peminat_2021": 292,
+                "daya_tampung_2022": 30,
+                "keketatan": 9.733333333333333
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI SURABAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PEND. TEKNIK MESIN",
+                "peminat_2021": 98,
+                "daya_tampung_2022": 27,
+                "keketatan": 3.6296296296296298
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 319,
+                "daya_tampung_2022": 35,
+                "keketatan": 9.114285714285714
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TANJUNGPURA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 29,
+                "daya_tampung_2022": 8,
+                "keketatan": 3.625
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS HALUOLEO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 64,
+                "daya_tampung_2022": 18,
+                "keketatan": 3.5555555555555554
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TRUNOJOYO MADURA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 98,
+                "daya_tampung_2022": 30,
+                "keketatan": 3.2666666666666666
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS UDAYANA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 172,
+                "daya_tampung_2022": 54,
+                "keketatan": 3.185185185185185
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS BORNEO TARAKAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 35,
+                "daya_tampung_2022": 12,
+                "keketatan": 2.9166666666666665
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI SUMATERA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 193,
+                "daya_tampung_2022": 68,
+                "keketatan": 2.838235294117647
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PALANGKARAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PEND. TEKNIK MESIN ",
+                "peminat_2021": 30,
+                "daya_tampung_2022": 12,
+                "keketatan": 2.5
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MAKASSAR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK MESIN",
+                "peminat_2021": 25,
+                "daya_tampung_2022": 11,
+                "keketatan": 2.272727272727273
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS BANGKA BELITUNG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 52,
+                "daya_tampung_2022": 28,
+                "keketatan": 1.8571428571428572
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SAMUDRA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 40,
+                "daya_tampung_2022": 24,
+                "keketatan": 1.6666666666666667
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TEUKU UMAR",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 75,
+                "daya_tampung_2022": 48,
+                "keketatan": 1.5625
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI GORONTALO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN TEKNIK MESIN",
+                "peminat_2021": 31,
+                "daya_tampung_2022": 20,
+                "keketatan": 1.55
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS CENDERAWASIH",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 18,
+                "daya_tampung_2022": 12,
+                "keketatan": 1.5
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MALIKUSSALEH",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 189,
+                "daya_tampung_2022": 150,
+                "keketatan": 1.26
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "PENDIDIKAN VOKASIONAL TEKNIK MESIN",
+                "peminat_2021": 19,
+                "daya_tampung_2022": 30,
+                "keketatan": 0.6333333333333333
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NUSA CENDANA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PEND. TEKNIK MESIN",
+                "peminat_2021": 20,
+                "daya_tampung_2022": 17,
+                "keketatan": 1.1764705882352942
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 44,
+                "daya_tampung_2022": 25,
+                "keketatan": 1.76
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SAM RATULANGI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN ",
+                "peminat_2021": 16,
+                "daya_tampung_2022": 17,
+                "keketatan": 0.9411764705882353
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 9,
+                "daya_tampung_2022": 13,
+                "keketatan": 0.6923076923076923
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PATTIMURA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK  MESIN",
+                "peminat_2021": 20,
+                "daya_tampung_2022": 32,
+                "keketatan": 0.625
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS KHAIRUN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 11,
+                "daya_tampung_2022": 24,
+                "keketatan": 0.4583333333333333
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MUSAMUS MERAUKE",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 4,
+                "daya_tampung_2022": 16,
+                "keketatan": 0.25
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MANADO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "PEND. TEK MESIN",
+                "peminat_2021": 5,
+                "daya_tampung_2022": 24,
+                "keketatan": 0.20833333333333334
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK MESIN",
+                "peminat_2021": 19,
+                "daya_tampung_2022": 24,
+                "keketatan": 0.7916666666666666
+            }
+        ]
+    },
+    {
+        "universitas": "ISBI ACEH",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUMATERA UTARA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI PADANG PANJANG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS JAMBI",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI RADEN FATAH",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS TERBUKA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS PADJADJARAN",
+        "prodi": []
+    },
+    {
+        "universitas": "ISBI BANDUNG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+        "prodi": []
+    },
+    {
+        "universitas": "INSTITUT PERTANIAN BOGOR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SILIWANGI",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS JENDERAL SOEDIRMAN",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI SURAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+        "prodi": []
+    },
+    {
+        "universitas": "UPN \"VETERAN\" YOGYAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI YOGYAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI MALANG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS AIRLANGGA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS MULAWARMAN",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI DENPASAR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS TIMOR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SULAWESI BARAT",
+        "prodi": []
+    },
+    {
+        "universitas": "ISBI TANAH PAPUA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS PAPUA",
+        "prodi": []
+    }
+]

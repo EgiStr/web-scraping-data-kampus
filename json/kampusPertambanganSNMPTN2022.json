@@ -1,0 +1,506 @@
+[
+    {
+        "universitas": "UNIVERSITAS HASANUDDIN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN ",
+                "peminat_2021": 742,
+                "daya_tampung_2022": 20,
+                "keketatan": 37.1
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SRIWIJAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 612,
+                "daya_tampung_2022": 24,
+                "keketatan": 25.5
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI PADANG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN (NK)",
+                "peminat_2021": 475,
+                "daya_tampung_2022": 27,
+                "keketatan": 17.59259259259259
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS HALUOLEO",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 381,
+                "daya_tampung_2022": 24,
+                "keketatan": 15.875
+            }
+        ]
+    },
+    {
+        "universitas": "UPN \"VETERAN\" YOGYAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 729,
+                "daya_tampung_2022": 48,
+                "keketatan": 15.1875
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MULAWARMAN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 167,
+                "daya_tampung_2022": 15,
+                "keketatan": 11.133333333333333
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SYIAH KUALA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 220,
+                "daya_tampung_2022": 20,
+                "keketatan": 11.0
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS LAMBUNG MANGKURAT",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 80,
+                "daya_tampung_2022": 10,
+                "keketatan": 8.0
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS JEMBER",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 153,
+                "daya_tampung_2022": 21,
+                "keketatan": 7.285714285714286
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS TANJUNGPURA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 66,
+                "daya_tampung_2022": 10,
+                "keketatan": 6.6
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI JAKARTA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 125,
+                "daya_tampung_2022": 24,
+                "keketatan": 5.208333333333333
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS CENDERAWASIH",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 62,
+                "daya_tampung_2022": 12,
+                "keketatan": 5.166666666666667
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS JAMBI",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 177,
+                "daya_tampung_2022": 40,
+                "keketatan": 4.425
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PALANGKARAYA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 88,
+                "daya_tampung_2022": 22,
+                "keketatan": 4.0
+            }
+        ]
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI SUMATERA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 380,
+                "daya_tampung_2022": 103,
+                "keketatan": 3.6893203883495147
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS BANGKA BELITUNG",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 82,
+                "daya_tampung_2022": 28,
+                "keketatan": 2.9285714285714284
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS SEMBILAN BELAS NOVEMBER KOLAKA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 61,
+                "daya_tampung_2022": 25,
+                "keketatan": 2.44
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS PAPUA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 41,
+                "daya_tampung_2022": 18,
+                "keketatan": 2.2777777777777777
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS NUSA CENDANA",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 53,
+                "daya_tampung_2022": 25,
+                "keketatan": 2.12
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS KHAIRUN",
+        "prodi": [
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNIK PERTAMBANGAN",
+                "peminat_2021": 53,
+                "daya_tampung_2022": 30,
+                "keketatan": 1.7666666666666666
+            }
+        ]
+    },
+    {
+        "universitas": "UNIVERSITAS MALIKUSSALEH",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS TEUKU UMAR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SAMUDRA",
+        "prodi": []
+    },
+    {
+        "universitas": "ISBI ACEH",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI AR-RANIRY",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SUMATERA UTARA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MEDAN",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUMATERA UTARA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS RIAU",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SULTAN SYARIF KASIM",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS MARITIM RAJA ALI HAJI",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ANDALAS",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI PADANG PANJANG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS BENGKULU",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI RADEN FATAH",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS LAMPUNG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SULTAN AGENG TIRTAYASA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS INDONESIA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI JAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UPN \"VETERAN\" JAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS TERBUKA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SINGAPERBANGSA KARAWANG",
+        "prodi": []
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI BANDUNG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS PADJADJARAN",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS PENDIDIKAN INDONESIA",
+        "prodi": []
+    },
+    {
+        "universitas": "ISBI BANDUNG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN GUNUNG DJATI",
+        "prodi": []
+    },
+    {
+        "universitas": "INSTITUT PERTANIAN BOGOR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SILIWANGI",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS JENDERAL SOEDIRMAN",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS TIDAR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SEBELAS MARET",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI SURAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS DIPONEGORO",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI SEMARANG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI WALISONGO",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS GADJAH MADA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI YOGYAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI YOGYAKARTA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN KALIJAGA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS BRAWIJAYA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MALANG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI MALANG",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS AIRLANGGA",
+        "prodi": []
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI SEPULUH NOPEMBER",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI SURABAYA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS TRUNOJOYO MADURA",
+        "prodi": []
+    },
+    {
+        "universitas": "UPN \"VETERAN\" JAWA TIMUR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI SUNAN AMPEL SURABAYA",
+        "prodi": []
+    },
+    {
+        "universitas": "INSTITUT TEKNOLOGI KALIMANTAN",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS BORNEO TARAKAN",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS UDAYANA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS PENDIDIKAN GANESHA",
+        "prodi": []
+    },
+    {
+        "universitas": "ISI DENPASAR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS MATARAM",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS TIMOR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MAKASSAR",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS ISLAM NEGERI ALAUDDIN",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SAM RATULANGI",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI MANADO",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS TADULAKO",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS SULAWESI BARAT",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS NEGERI GORONTALO",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS PATTIMURA",
+        "prodi": []
+    },
+    {
+        "universitas": "UNIVERSITAS MUSAMUS MERAUKE",
+        "prodi": []
+    },
+    {
+        "universitas": "ISBI TANAH PAPUA",
+        "prodi": []
+    }
+]

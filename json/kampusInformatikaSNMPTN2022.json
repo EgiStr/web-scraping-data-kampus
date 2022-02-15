@@ -132,6 +132,13 @@
                 "peminat_2021": 1570,
                 "daya_tampung_2022": 48,
                 "keketatan": 32.708333333333336
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "STATISTIKA DAN SAINS DATA",
+                "peminat_2021": 840,
+                "daya_tampung_2022": 36,
+                "keketatan": 23.333333333333332
             }
         ]
     },
@@ -600,6 +607,13 @@
                 "peminat_2021": 339,
                 "daya_tampung_2022": 20,
                 "keketatan": 16.95
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "TEKNOLOGI SAINS DATA",
+                "peminat_2021": 373,
+                "daya_tampung_2022": 24,
+                "keketatan": 15.541666666666666
             }
         ]
     },
@@ -783,6 +797,13 @@
                 "peminat_2021": 88,
                 "daya_tampung_2022": 40,
                 "keketatan": 2.2
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "REKAYASA PERANGKAT LUNAK (KAMPUS UPI CIBIRU)",
+                "peminat_2021": 169,
+                "daya_tampung_2022": 27,
+                "keketatan": 6.2592592592592595
             }
         ]
     },
@@ -938,6 +959,13 @@
                 "peminat_2021": 620,
                 "daya_tampung_2022": 78,
                 "keketatan": 7.948717948717949
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SAINS DATA",
+                "peminat_2021": 111,
+                "daya_tampung_2022": 37,
+                "keketatan": 3.0
             }
         ]
     },
@@ -981,6 +1009,13 @@
                 "peminat_2021": 733,
                 "daya_tampung_2022": 117,
                 "keketatan": 6.264957264957265
+            },
+            {
+                "jenjang": "S1",
+                "prodi": "SAINS DATA",
+                "peminat_2021": 135,
+                "daya_tampung_2022": 68,
+                "keketatan": 1.9852941176470589
             }
         ]
     },
