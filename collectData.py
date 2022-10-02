@@ -1,3 +1,4 @@
+import math
 import requests
 import json
 from bs4 import BeautifulSoup
@@ -61,9 +62,17 @@ class Request:
         links = soup.find_all('a')
         return links
 
+    def sortProdi(self,prodi):
+        prodi.sort(key=lambda x: x.get('keketatan',0) if x['keketatan'] else 0 , reverse=True)
+        return prodi
+
     def sortListofObject(self,kampus):
+        # sort list of kampus.prodi
+        for kp in kampus:
+            kp['prodi'] = self.sortProdi(kp['prodi'])
+
         # sort list of object
-        kampus.sort(key=lambda x: x['prodi'][0].get("keketatan",0) if x['prodi'] and len(x['prodi']) > 0 else 0 , reverse=True)
+        kampus.sort(key=lambda x: x.get('prodi')[0].get("keketatan",0) if x['prodi'] and len(x['prodi']) > 0 else 0 , reverse=True)
         return kampus
 
     def findProdi(self,url):
@@ -76,14 +85,14 @@ class Request:
                 tr = tbody.findChildren('tr')
                 for link in tr:
                     if self.lowercase(link.findChildren('td')[3].text) == "s1":
-                        if self.isProdi(link.findChildren('td')[2].findChildren('a')[0].text,self.MY_PRODI):
-                            summary = {}
-                            summary['jenjang'] = link.findChildren('td')[3].text
-                            summary['prodi'] = link.findChildren('td')[2].findChildren('a')[0].text
-                            summary['peminat_2021'] = int(self.removeSpacing(link.findChildren('td')[5].text).replace("\n", "").replace("\r", ""))
-                            summary['daya_tampung_2022'] =  int(link.findChildren('td')[4].text)
-                            summary['keketatan'] =  float(summary.get('peminat_2021'))/float(summary.get('daya_tampung_2022'))
-                            daftar_prodi.append(summary)
+                        # if self.isProdi(link.findChildren('td')[2].findChildren('a')[0].text,self.MY_PRODI):
+                        summary = {}
+                        summary['jenjang'] = link.findChildren('td')[3].text
+                        summary['prodi'] = link.findChildren('td')[2].findChildren('a')[0].text
+                        summary['peminat_2021'] = int(self.removeSpacing(link.findChildren('td')[5].text).replace("\n", "").replace("\r", ""))
+                        summary['daya_tampung_2022'] =  int(link.findChildren('td')[4].text)
+                        summary['keketatan'] = math.ceil(float(summary.get('peminat_2021'))/float(summary.get('daya_tampung_2022')))
+                        daftar_prodi.append(summary)
             return daftar_prodi
         except IndexError as e:
             print(e)

@@ -14,7 +14,7 @@ if __name__ == '__main__':
         
     
     # ask input for keyword name_file
-    name_file = input("Masukkan nama file: ")
+    name_file = input("Masukkan nama file (untuk membuat menyimpan excel): ")
     # create object Request
     request = Request(keyword, jurusan, name_file)
     # get request
